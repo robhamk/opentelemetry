@@ -1,4 +1,4 @@
-# Getting Started
+This guide shows us how to integrate spring boot with open telemetry via java agent.
 
 # Start Jaeger
 ### Docker command
